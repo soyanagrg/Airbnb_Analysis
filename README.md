@@ -9,9 +9,8 @@ A data-driven analysis of Airbnb listings across 5 major cities to help hosts ma
 
 ## Dataset
 Source: Kaggle
-- 292,802 original listings
-- 5 cities after cleaning: London, Rome, Barcelona, Amsterdam, Bangkok
-- 20 columns including price, room type, neighbourhood, availability
+Download the dataset here: [https://www.kaggle.com/datasets/darkmatternet/airbnb-listings-nyc-london-paris-tokyo-and-more]
+**Note**: Dataset not included in this repository due to file size limitations.
 
 ## Data Cleaning
 - Removed columns with 90%+ missing values
