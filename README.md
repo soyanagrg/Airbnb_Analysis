@@ -42,7 +42,9 @@ Download the dataset here: [https://www.kaggle.com/datasets/darkmatternet/airbnb
 
 ## Dataset
 <img width="804" height="1046" alt="image" src="https://github.com/user-attachments/assets/2ae3c228-05c3-4ce0-b68a-6da587abc856" />
+
 <img width="1268" height="718" alt="image" src="https://github.com/user-attachments/assets/0deecb0a-d218-40a1-9302-acc58f537f2b" />
+
 <img width="1277" height="711" alt="image" src="https://github.com/user-attachments/assets/1362ccc8-8bbf-44d0-bf6e-a6f3a125a155" />
 
 ## Notes
